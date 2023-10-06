@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Healthcare-App/static/css/main.de55e860.css",
+    "main.js": "/Healthcare-App/static/js/main.c3b00d7f.js",
+    "static/media/patient-login.png": "/Healthcare-App/static/media/patient-login.ab01c698208a6f46ffe6.png",
+    "static/media/error.png": "/Healthcare-App/static/media/error.866729c54e518e0113b4.png",
+    "static/media/logo.png": "/Healthcare-App/static/media/logo.a8d805d97ea7dfd012c9.png",
+    "static/media/doc_profle.png": "/Healthcare-App/static/media/doc_profle.80c0a0969088b40493cb.png",
+    "static/media/user.png": "/Healthcare-App/static/media/user.0d14c6999b4a5c8e86a7.png",
+    "index.html": "/Healthcare-App/index.html",
+    "main.de55e860.css.map": "/Healthcare-App/static/css/main.de55e860.css.map",
+    "main.c3b00d7f.js.map": "/Healthcare-App/static/js/main.c3b00d7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de55e860.css",
+    "static/js/main.c3b00d7f.js"
+  ]
+}
